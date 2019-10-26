@@ -36,7 +36,7 @@ body {
        <input type="password" name="b" size="30"><br>
        
        <input type="submit" value="login"><input type="reset" value="reset"><br>
-     //form for the forgot activity
+     
      </form> 
      <a href="forgot.php">
        <button>forgot password?</button>
